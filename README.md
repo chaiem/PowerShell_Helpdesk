@@ -1,3 +1,3 @@
 # PowerShell_Helpdesk
 
-Tools and Functions for Troubleshooting with PowerShell.
+Tools and Functions for Troubleshooting and Administration with PowerShell.
